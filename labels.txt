@@ -1,0 +1,6 @@
+0 голуби
+1 синички
+2 mid_tower
+3 mini_itx
+4 java
+5 python
